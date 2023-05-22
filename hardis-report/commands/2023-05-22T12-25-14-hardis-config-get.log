@@ -1,0 +1,2 @@
+/Users/bchandranarayana/.local/share/sfdx/client/7.200.7-499d9c2/bin/node /Users/bchandranarayana/.local/share/sfdx/client/7.200.7-499d9c2/bin/run hardis:config:get --level project --json/Users/bchandranarayana/.local/share/sfdx/client/7.200.7-499d9c2/bin/node /Users/bchandranarayana/.local/share/sfdx/client/7.200.7-499d9c2/bin/run hardis:config:get --level user --json[sfdx-hardis] {}
+[sfdx-hardis] {}
